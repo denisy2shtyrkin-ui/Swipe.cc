@@ -1,6 +1,10 @@
 -- Swipe.cc - Full Roblox Script
 -- Современный Luau скрипт с модульной структурой
 -- Автор: Swipe.cc Team
+--
+-- 🔒 БЕЗ РЕКЛАМЫ И ВИРУСОВ - 100% ЧИСТЫЙ КОД
+-- Весь код открыт на GitHub: https://github.com/denisy2shtyrkin-ui/Swipe.cc
+-- Никаких скрытых функций или вредоносного кода
 
 -- Защита от повторной загрузки
 if getgenv().SwipeCC then
