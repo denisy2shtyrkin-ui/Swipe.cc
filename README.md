@@ -9,7 +9,7 @@ Swipe.cc - это современный Roblox скрипт с модульно
 Скопируйте и вставьте в executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/denisy2shtyrkin-ui/Swipe.cc/main/Swipe.cc/Swipe.cc.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/denisy2shtyrkin-ui/Swipe.cc/main/Swipe.cc.lua"))()
 ```
 
 ## ✨ Возможности
